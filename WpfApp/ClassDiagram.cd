@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfApp.Classes.Animal">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAABAAASAAAAAAAQAAAQEIAAAAAAIAAAAABA=</HashCode>
+      <FileName>Classes\Animal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WpfApp.Classes.Insect">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCCIAAAAAAAAACAAAAAAAQAAAAEIAEAAAAAAAAAABA=</HashCode>
+      <FileName>Classes\Insect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp.Classes.Mammal">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCCIAAAAAAAAACAAAAAAAQAAAAEIAEAAAAAAAAAABA=</HashCode>
+      <FileName>Classes\Mammal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp.Classes.ColdBlooded">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCCIAAAAAAAAACAAAAAAAQAAAAEIAEAAAAAAAAAABA=</HashCode>
+      <FileName>Classes\ColdBlooded.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp.Classes.AnimalConvertor">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAIAAA=</HashCode>
+      <FileName>Classes\AnimalConvertor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp.Classes.AnimalDTO">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAABAAAAAAAAAAAQAAAAEIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\AnimalDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp.Center">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAKIAAQAAAAAAQAAAAAAAAAAAAAIAEAAAAAAA=</HashCode>
+      <FileName>Center.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp.Serializator&lt;T&gt;">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serializator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp.Data.Couple&lt;T, K&gt;">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Data\Couple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="WpfApp.Data.TypeOfFood">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\TypeOfFood.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WpfApp.Data.TypeOfHabitat">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAABAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\TypeOfHabitat.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WpfApp.Data.TypeOfTherapy">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAgAEAAAA=</HashCode>
+      <FileName>Data\TypeOfTherapy.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
